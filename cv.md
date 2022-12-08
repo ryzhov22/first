@@ -1,5 +1,6 @@
 # Alexander Ryzhov
 ---
+
 ## Contacts
 * **e-mail:** ryzhov.a@outlook.com
 * **discord:** Alex_22#2130
@@ -17,9 +18,9 @@ Working as a project manager in a medical device development company for more th
 * Jira, Confluence, Miro, Figma
 
 ## Code Examples
+
 ```
 var myButton = document.querySelector('button');
-
 myButton.onclick = function() {
   alert('привет');
 }
