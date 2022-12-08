@@ -17,9 +17,21 @@ Working as a project manager in a medical device development company for more th
 * Jira, Confluence, Miro, Figma
 ---
 ## Code Examples
+```
+var myButton = document.querySelector('button');
 
+myButton.onclick = function() {
+  alert('привет');
+}
+```
 ---
 ## Professional Experience
+* Medical Device Manufacturer
+    * Head of Development Control Department (12/2020 – present)
+    * Product Manager (05/2019 – 12/2020)
+    * Project Manager (05/2015 – 12/2020)
+* Engineering Company
+    * Electrical System Design Engineer (08/2012 – 05/2015)
 
 ---
 ## Education
