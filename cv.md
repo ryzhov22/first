@@ -32,7 +32,6 @@ myButton.onclick = function() {
     * Project Manager (05/2015 – 12/2020)
 * Engineering Company
     * Electrical System Design Engineer (08/2012 – 05/2015)
-
 ---
 ## Education
 * Master in Electrical Power Engineering (2012)
