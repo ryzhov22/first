@@ -69,6 +69,11 @@ nav {
   justify-content: space-evenly;
 }
 
+.div-2-col {
+  display: flex;
+  justify-content: space-between;
+}
+
 .item-2-col {
   position: relative;
   text-align: center;
@@ -100,8 +105,13 @@ nav {
 
 .vertical-list {
   text-align: left;
-  margin-left: 100px;
+  margin-left: 115px;
   padding: 0;
+}
+
+.vertical-item {
+  padding: 0 10px;
+  margin: 0;
 }
 
 .summary {
